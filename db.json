@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "message": "Changed Server on 00",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2019-11-12T03:33:06.399Z",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "message": "Anda perfecto",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-11-12T04:20:38.134Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "OSCAR RENEE",
+      "lastName": "SOSA TORRENS",
+      "id": 1
+    },
+    {
+      "firstName": "Fabricio",
+      "lastName": "Yacques",
+      "id": 2
+    },
+    {
+      "firstName": "Patricia ",
+      "lastName": "Sosa",
+      "id": 3
+    },
+    {
+      "firstName": "Miguel",
+      "lastName": "Yacques",
+      "id": 4
+    }
+  ]
+}
